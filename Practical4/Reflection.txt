@@ -1,0 +1,8 @@
+Compared to the git and the github, I think it is not so difficult to type commands and remind them. 
+The most important thing is to use the basic command flexibly. For instance, Tab and "." are useful to simplify the inputting work. Also, command "mv" is to move something
+rather than rename something. 
+Difficulties: Network and error message. Except for timed out, we need to solve some error messege such as encounted end of file, the remote end hung up unexpetedly and src refspec master does not match any.
+I search it on the internet and finnaly solve it. I have to say they are big challenges for me because I cannot really understand it. The results I searched weren't matched my problems perfectly each time. So I have to try many times.
+I think the most difficult thing for me is to push the "index.md" file. Although the proper command is so simple that only change the word "master" of the command "git push origin master" into "main", but I tried many other wrong commands and created a unexpected merge "master".
+Somthing is difficult for me to understand is why we need to type this command this time and what each part of command represents. For example, "-m" part when I commit sth. and "Initialise".
+The relationship among github, local git repository and my workspace on the server of ZJU is also a confusing thing for me. And when we type git init, where is the directory ".git" although it is hidden. And when I initialise git, which part can be added? All of these are still mysteries for me.
